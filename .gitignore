@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+\#*\#
+*~
+TAGS
+db/schema.rb
+log/
+db/*.sqlite3
+tmp/
+
+# bundler state
+/.bundle
+/vendor/bundle/
+=======
 *.rbc
 *.sassc
 .sass-cache
@@ -14,3 +27,4 @@ capybara-*.html
 **.orig
 rerun.txt
 pickle-email-*.html
+>>>>>>> bb77dc4489dc5fb8086b17077d7281bed4df1303
